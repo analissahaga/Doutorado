@@ -10,7 +10,7 @@ Link do projeto no NotebookLM:
 - Data: 2026-01-13
 - Autor: Analissa Haga
 
-- # Fazer resumo de artigo com integração à Open Ai e chat gpt
+# Fazer resumo de artigo com integração à Open Ai e chat gpt
 
 Codigo para resumir artigos integrado à openIA e chatgpt
 
