@@ -12,7 +12,7 @@ Link do projeto no NotebookLM:
 
 - # Fazer resumo de artigo com integração à Open Ai e chat gpt
 
-Pesquisa sobre professores e linhas do doutorado
+Codigo para resumir artigos integrado à openIA e chatgpt
 
 Link do projeto para resumir artigos integrado à Open AI e ao chatgpt 
 [Projeto Resumo Integrado — Doutorado]([https://colab.research.google.com/drive/1VfM8BrSqCVXsMbuyifAiWHjF-BE3o8u1?usp=sharing](https://colab.research.google.com/drive/1VfM8BrSqCVXsMbuyifAiWHjF-BE3o8u1?usp=sharing)
