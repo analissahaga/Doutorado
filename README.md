@@ -19,3 +19,13 @@ Link do projeto para resumir artigos integrado à Open AI e ao chatgpt
 - Resumo: Experimentando pnl para ajudar nos resumos integrados à open AI para o processo de doutorado
 - Data: 2026-01-23
 - Autor: Analissa Haga
+
+# Fazer tradução de artigo com integração à Azure Open AI
+
+Tradução de um artigo
+
+Link do projeto para traduzir artigos integrado à Azure Open AI 
+[Projeto Tradução Integrada — Doutorado]([https://colab.research.google.com/drive/1lpwnIVBfz9PBuk0zS8Lo8ypXWmQDTgOB?usp=sharing])
+- Resumo: Experimentando aplicação para ajudar nas traduções integrados à Azure open AI para o processo de doutorado
+- Data: 2026-02-03
+- Autor: Analissa Haga
